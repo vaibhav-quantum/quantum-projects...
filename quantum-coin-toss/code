@@ -19,6 +19,12 @@ compiled_circuit = transpile(qc, simulator)
 # Run the circuit
 result = simulator.run(compiled_circuit, shots=1000).result()
 
-# Get and display results
+# Get results
 counts = result.get_counts()
-plot_histogram(counts)
+
+# Plot and save histogram
+fig = plot_histogram(counts)
+fig.savefig("outputs/histogram.png")
+
+print("Histogram saved to outputs/histogram.png")
+print("Counts:", counts)
