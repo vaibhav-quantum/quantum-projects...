@@ -2,7 +2,7 @@
 
 The histogram below shows approximately equal probabilities for 0 and 1
 after 1000 measurements, demonstrating quantum superposition and true
-quantum randomness...
+quantum randomness....
 
 ![Quantum Coin Toss Histogram](outputs/histogram.png)
 
