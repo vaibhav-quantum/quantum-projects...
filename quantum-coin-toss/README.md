@@ -14,4 +14,4 @@ Simulate a fair coin using quantum superposition.
 
 ## Explanation
 A Hadamard gate creates a superposition of |0⟩ and |1⟩.
-Measurement collapses the state, producing true randomness.
+Measurement collapses the state, producing true randomness....
