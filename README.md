@@ -9,9 +9,9 @@ The focus is on depth, correctness, and clarity, rather than rushing through mat
 Repository Structure
 This is a single Git repository with no nested repos.
 Each project lives in its own folder and includes:-
-                                                  Source code for the experiment
-                                                  Output files such as plots or results 
-                                                  A short README explaining the idea and observations
+                                                  Source code for the experiment,
+                                                  Output files such as plots or results, 
+                                                  A short README explaining the idea and observations,
                                                   The structure mirrors how technical and research work is typically organized.
 
 Topics Covered
