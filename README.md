@@ -1,31 +1,35 @@
-Quantum Projects
+**Quantum Projects**
 
-Learning quantum computing through hands-on experiments..
+**Learning quantum computing through hands-on experiments..**
 
 This repository documents my learning journey in quantum computing, focusing on building intuition through small, well-scoped experiments rather than rushing through advanced topics...
 
-Structure
+**Structur**e
+
 This is a single Git repository with no nested repos...
 
-Each project includes:-
+**Each project includes:-**
+
                       Experiment code
                       Generated outputs (plots/results)
                       A brief README explaining the idea
 
-Topics Covered so far:-
+**Topics Covered so far:-**
                       Qubits and superposition
                       Hadamard gate
                       Measurement and randomness
                       Multi-qubit systems and exponential scaling
                       Probability visualization
 
-Upcoming:-
-Entanglement and correlations
-Multi-qubit measurements
-Introductory quantum algorithms
-Experiments on real quantum hardware
+**Upcoming:-**
 
-Tools
+                      Entanglement and correlations
+                      Multi-qubit measurements
+                      Introductory quantum algorithms
+                      Experiments on real quantum hardware
+
+**Tools**
+
      Python
      Qiskit (IBM Quantum)
      Matplotlib
